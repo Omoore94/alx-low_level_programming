@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - program that prints the alphabet in lowercase, and then in uppercase,
  * You can only use the putchar
@@ -7,13 +6,17 @@
  */
 int main(void)
 {
-	char a = 'A';
+	char a = 'a';
 	char A = 'A';
 	int n = 0;
 
 	while (n < 52)
 	{
 		if (n < 26)
+		{
+			putchar(a);
+			a++;
+		} else
 		{
 			putchar(A);
 			A++;
