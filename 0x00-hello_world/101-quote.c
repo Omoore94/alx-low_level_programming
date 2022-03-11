@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - Entry point
- *
- * Return - 0 if successful
+ * Description: main - Print string
+ * Return: 0 if successful
 */
 int main(void)
 {
