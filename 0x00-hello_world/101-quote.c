@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - This is the entry points
+ * main - Entry point
  *
  * Return - 0 if successful
 */
