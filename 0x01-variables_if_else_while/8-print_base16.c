@@ -10,7 +10,7 @@ int main(void)
 	char alpha = 'a';
 	int i = 0;
 
-	while (i < 10)
+	while (i < 16)
 	{
 		if (i < 10)
 		{
