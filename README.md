@@ -1,5 +1,5 @@
 # Low-level programming & Algorithm #
-Module of Low-level programming and algorithm, carried out during ALX Software Engineering studies at Holberton School.
+Module of Low-level programming and algorithm, carried out during __ALX Software Engineering programme__ at __ALX Africa.__
 
 ## Technologies ##
 * Scripts written in Bash 4.3.11(1)
@@ -11,4 +11,4 @@ All of the following folders are projects done during the program:
 
 Project name          |	Description 
 ----------------------|-----------
-__0x00-hello_world__  |	It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in __C language.__
+[0x00-hello_world](https://github.com/Omoore94/alx-low_level_programming/tree/master/0x00-hello_world) |	It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in __C language.__
