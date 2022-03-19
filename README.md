@@ -1,5 +1,5 @@
 # Low-level programming & Algorithm #
-Module of Low-level programming and algorithm, carried out during __ALX Software Engineering programme__ at __ALX Africa.__
+Module of Low-level programming and algorithm, carried out during __ALX Software Engineering programme__ at [ALX Africa](https://www.alxafrica.com/).
 
 ## Technologies ##
 * Scripts written in Bash 4.3.11(1)
