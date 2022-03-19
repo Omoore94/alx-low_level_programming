@@ -5,27 +5,25 @@
  * @n: number of times the '\' char is printed
  * Description: Can only use _putchar to print
  */
-
 void print_diagonal(int n)
 {
-	int line = 0;
-	int spaces;
+	int c, i;
 
-	if (n > 0)
+	c = 0;
+
+	while (n > 0)
 	{
-		while (line < n)
+		i = c;
+		while (i > 0)
 		{
-			for (spaces = 0; spaces < line; spaces++)
-			{
-				_putchar(' ');
-			}
-			_putchar('\\');
-			_putchar('\\');
-			line++;
+			_putchar(32);
+			i--;
 		}
+		_putchar(92);
+		_putchar(10);
+		c++;
+		n--;
 	}
-	else
-	{
-		_putchar('\n');
-	}
+	if (c < 1)
+		_putchar(10);
 }
