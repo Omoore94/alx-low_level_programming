@@ -1,5 +1,5 @@
 # Hello, World #
-Project done during __ALX Software Engineering Program__. It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language.
+Project done during __ALX Software Engineering Programme__. Project was on entry point, basics commands (puts, printf, putchar), compilation process with gcc in __C language.__
 
 ## Technologies ##
 * Scripts written in Bash 4.3.11(1)
