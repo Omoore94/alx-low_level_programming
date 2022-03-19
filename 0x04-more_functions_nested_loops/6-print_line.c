@@ -5,7 +5,6 @@
  * @n: number of times underscore is printed
  * Description: Can only use _putchar to print
  */
-
 void print_line(int n)
 {
 	int c;
@@ -14,6 +13,7 @@ void print_line(int n)
 	while (c < n)
 	{
 		_putchar(95);
+
 		c++;
 	}
 	_putchar(10);
