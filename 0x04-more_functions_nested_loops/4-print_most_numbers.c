@@ -16,5 +16,5 @@ void print_most_numbers(void)
 			_putchar(i);
 		}
 	}
-	_putcahr(10]; /* this i code in a new line */
+	_putchar(10); /* this is another form of coding a new line */
 }
