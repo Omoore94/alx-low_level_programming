@@ -1,5 +1,5 @@
 # Pointers, Arrays and Strings #
-Project done during ALX Software Engineering programme at [ALX Africa](https://www.alxafrica.com/). The project was about __pointers and arrays__ in __C language.__
+Project done during __ALX Software Engineering programme__ at [ALX Africa](https://www.alxafrica.com/). The project was about __pointers and arrays__ in __C language.__
 
 ## Technologies ##
 * C files are compiled using gcc 4.8.4
